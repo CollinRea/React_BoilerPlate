@@ -14,3 +14,5 @@ To bundle with webpack
       webpack -w
       
 Server will be up on port 3000
+
+Checkout Sample Component branch for example component.
