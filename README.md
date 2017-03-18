@@ -1,13 +1,16 @@
-# React_BoilerPlate
+# React BoilerPlate
 Simple Boilerplate to start React Projects with Webpack and Babel
 
 * Requires [Node](https://nodejs.org/en/)
 
-Clone project
-       
-       git clone https://github.com/CollinRea/React_BoilerPlate.git *add optional project name*
+## Suggested Steps
+* Fork Repo (Or just Clone, but please change your remote repo and don't push up to this one)
 
-Install dependencies
+* Clone project
+       
+       git clone https://github.com/*your_username*/React_BoilerPlate.git *add optional project name*
+
+* Install dependencies
 
        npm install
        
