@@ -1,7 +1,9 @@
-var React = require('react');
-var ReactDOM = require('react-dom');
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+import Sample from './components/Sample'
 
 ReactDOM.render(
-  <h1>Boilerplate App - Render Components Here...</h1>,
+  <Sample />,
   document.getElementById("app")
 );
